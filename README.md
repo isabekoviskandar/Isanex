@@ -45,7 +45,7 @@ Edit
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/isanex.git
+git clone https://github.com/isabekoviskandar/isanex.git
 cd isanex
 2. Install Dependencies
 bash
